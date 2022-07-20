@@ -11,3 +11,4 @@ starts at 8am with a little standup
 - product manager
 - scrum master
 - two QA (quality assurance) / testers
+- three developers
