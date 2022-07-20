@@ -2,3 +2,12 @@
 
 https://www.youtube.com/watch?v=DZrjjjZFW64
 
+* day
+  :PROPERTIES:
+  :ID:       fb8f3ac3-c6bf-4270-af83-673dcfd28a23
+  :END:
+
+starts at 8am with a little standup
+- product manager
+- scrum master
+- two QA (quality assurance) / testers
